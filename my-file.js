@@ -1,1 +1,1 @@
-alert("Hi word")
+alert("Edit")
